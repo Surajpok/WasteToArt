@@ -16,7 +16,7 @@
     <div class="container">
         <div class="top">
             <h1 class="title">It's Time To <span class="highlight">Transform</span><br> Trash To Art.</h1>
-            <p class="subtitle">Let's, Make Our World A Better Place & Live Better life That Each Of Us Diserves</p>
+            <p class="subtitle">Let's, Make Our World A Better Place & Live Better life That Everyone Diserves</p>
         </div>
         <div class="form">
             <form method="post">
@@ -85,14 +85,36 @@
         </div>
     </div>
 
-        <h1 class="artcatagory">Featured Art</h1>
+    <div class="awaire">
+    <img class ="awaireimg" src="../img/user/art.png" alt="" />
+        <div class="lines">
+            <p class="awaireline">Want To Earn Money Selling Art Made From Scrap?</p>
+        </div>
+        <div class="awairebtn">
+            <button type="submit" class="button" name="submit">Join Now</button>
+        </div>
+    </div>
+    <h1 class="artcatagory">Featured Art</h1>
 
-        <!--place for product-->
-        <?php
-        include(".././pages/product.php");
+    <!--place for product-->
+    <?php
+    include(".././pages/product.php");
+    ?>
 
-        ?>
+    <div class="awaire">
+        <div class="lines">
+            <p class="awaireline">Want To Make Money Selling Trash & Save Earth?</p>
+        </div>
+        <div class="awairebtn">
+            <button type="submit" class="button" name="submit">Join Now</button>
+        </div>
+        <img class="awaireimg1" src="../img/user/money.png" alt="" />
+    </div>
 
+    <?php
+    include(".././common/footer.php");
+
+    ?>
 </body>
 
 </html>

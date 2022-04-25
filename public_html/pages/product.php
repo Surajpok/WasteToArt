@@ -14,7 +14,7 @@
         <div class='listing'>
             <div class='listingImage'>
                 <a href='./room_detail.php?id=$id'>
-                    <img src='../img/user/electric.jpg' class='listImg' alt='Rooms Near Me'>
+                    <img src='../img/product/art/chair.jpg' class='listImg' alt='Rooms Near Me'>
                 </a>
             </div>
 
@@ -30,7 +30,7 @@
         <div class='listing'>
             <div class='listingImage'>
                 <a href='./room_detail.php?id=$id'>
-                    <img src='../img/user/plastic.jpg' class='listImg' alt='Rooms Near Me'>
+                    <img src='../img/product/art/flower.jpg' class='listImg' alt='Rooms Near Me'>
                 </a>
             </div>
 
@@ -46,7 +46,7 @@
         <div class='listing'>
             <div class='listingImage'>
                 <a href='./room_detail.php?id=$id'>
-                    <img src='../img/user/wooden.jpg' class='listImg' alt='Rooms Near Me'>
+                    <img src='../img/product/art/shark.jpg' class='listImg' alt='Rooms Near Me'>
                 </a>
             </div>
 
