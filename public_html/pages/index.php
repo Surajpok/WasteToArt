@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Waste To Art</title>
     <link rel="stylesheet" href="../css/style.css">
-    </head>
+</head>
 
 <body>
     <?php
@@ -59,34 +57,42 @@
     <div class="catcontainer">
         <h1 class="artcatagory">Art Catagory</h1>
         <div class="menu-wrapper">
-        <div class="catagory">
-            <div class="cat1 cat">
-                <h2>ELECTRIC</h2>
-            </div>
-            <div class="cat2 cat">
-                <h2>PLASTIC</h2>
-            </div>
-            <div class="cat3 cat">
-                <h2>WOODEN</h2>
-            </div>
-            <div class="cat4 cat">
-                <h2>OTHERS</h2>
-            </div>
-            <div class="cat4 cat">
-                <h2>Hello</h2>
-            </div>
+            <div class="catagory">
+                <div class="cat1 cat">
+                    <h2>ELECTRIC</h2>
+                </div>
+                <div class="cat2 cat">
+                    <h2>PLASTIC</h2>
+                </div>
+                <div class="cat3 cat">
+                    <h2>WOODEN</h2>
+                </div>
+                <div class="cat4 cat">
+                    <h2>OTHERS</h2>
+                </div>
+                <div class="cat4 cat">
+                    <h2>Hello</h2>
+                </div>
 
-            <div class="paddles">
-                <button class="left-paddle paddle hidden">
-                    < 
-                </button>
-                <button class="right-paddle paddle">
-                    >
-                </button>
+                <div class="paddles">
+                    <button class="left-paddle paddle hidden">
+                        < </button>
+                            <button class="right-paddle paddle">
+                                >
+                            </button>
+                </div>
             </div>
-        </div>
         </div>
     </div>
+
+        <h1 class="artcatagory">Featured Art</h1>
+
+        <!--place for product-->
+        <?php
+        include(".././pages/product.php");
+
+        ?>
+
 </body>
 
 </html>
