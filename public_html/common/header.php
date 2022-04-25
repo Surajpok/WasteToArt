@@ -19,7 +19,7 @@
 <body>
     <div class="navcontainer">
         <div class="leftnav">
-            <img class="logo" src=".././img/user/logo.png" alt=""></img>
+            <img class="logo" src=".././img/user/RENTAL.png" alt=""></img>
         </div>
         <div class="midnav">
             <ul class="navitem">

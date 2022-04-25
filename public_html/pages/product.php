@@ -20,7 +20,7 @@
 
             <div class='listingBody'>
                 <h6 class='listingTitle'> <a href='./index.php?id=$id'>Home Decor Made From Art</a> </h6>
-                <span class='listingPlace'>Kathmandu</span>
+                <span class='listingPlace'>Electric</span>
             </div>
             <div class='listingBody2'>
                 <p class='listingPrice'>Rs.5000<span></span></p>
@@ -36,7 +36,7 @@
 
             <div class='listingBody'>
                 <h6 class='listingTitle'> <a href='./index.php?id=$id'>Home Decor Made From Art</a> </h6>
-                <span class='listingPlace'>Kathmandu</span>
+                <span class='listingPlace'>Plastic</span>
             </div>
             <div class='listingBody2'>
                 <p class='listingPrice'>Rs.5000<span></span></p>
@@ -52,7 +52,7 @@
 
             <div class='listingBody'>
                 <h6 class='listingTitle'> <a href='./index.php?id=$id'>Home Decor Made From Art</a> </h6>
-                <span class='listingPlace'>Kathmandu</span>
+                <span class='listingPlace'>Wooden</span>
             </div>
             <div class='listingBody2'>
                 <p class='listingPrice'>Rs.5000<span></span></p>
