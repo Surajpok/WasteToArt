@@ -15,7 +15,7 @@
 
     <ul class="footer-list-top">
       <li>
-        <h4 class="footer-list-header">About Rental House</h4>
+        <h4 class="footer-list-header">Waste To Art</h4>
       </li>
       <li><a href='./about.php' class="generic-anchor footer-list-anchor" itemprop="significantLink">ABOUT US</a></li>
       <li><a href='' class="generic-anchor footer-list-anchor" itemprop="significantLink" target="_blank">BECOME A MEMBER</a></li>
@@ -24,11 +24,11 @@
     </ul>
     <ul class="footer-list-top">
       <li>
-        <h4 class="footer-list-header">Major Cities</h4>
+        <h4 class="footer-list-header">Art Catagories</h4>
       </li>
-      <li><a class="generic-anchor footer-list-anchor" target="_blank">BIRATNAGAR</a></li>
-      <li><a class="generic-anchor footer-list-anchor" target="_blank">KATHMANDU</a></li>
-      <li><a class="generic-anchor footer-list-anchor" target="_blank">POKHARA</a></li>
+      <li><a class="generic-anchor footer-list-anchor" target="_blank">PLASTIC</a></li>
+      <li><a class="generic-anchor footer-list-anchor" target="_blank">METAL</a></li>
+      <li><a class="generic-anchor footer-list-anchor" target="_blank">WOODEN</a></li>
 
     </ul>
     <ul class="footer-list-top">
@@ -49,7 +49,7 @@
       </div>
 
       <div class="footer-bottom-wrapper">
-        <span class='email'> Email : roomfinder@gmail.com</span>
+        <span class='email'> Email : wastetoart@gmail.com</span>
         <a href="" class="generic-anchor">Terms</a> | <a href="" class="generic-anchor">Privacy</a>
       </div>
     </section>

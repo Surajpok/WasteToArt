@@ -75,18 +75,15 @@
                 </div>
 
                 <div class="paddles">
-                    <button class="left-paddle paddle hidden">
-                        < </button>
-                            <button class="right-paddle paddle">
-                                >
-                            </button>
+                    <button class="left-paddle paddle hidden">&#10094;</button>
+                    <button class="right-paddle paddle">&#10095;</button>
                 </div>
             </div>
         </div>
     </div>
 
     <div class="awaire">
-    <img class ="awaireimg" src="../img/user/art.png" alt="" />
+        <img class="awaireimg" src="../img/user/art.png" alt="" />
         <div class="lines">
             <p class="awaireline">Want To Earn Money Selling Art Made From Scrap?</p>
         </div>
@@ -98,7 +95,7 @@
 
     <!--place for product-->
     <?php
-    include(".././pages/product.php");
+    include(".././pages/featuredart.php");
     ?>
 
     <div class="awaire">
