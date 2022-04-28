@@ -75,7 +75,7 @@
                 </div>
 
                 <div class="paddles">
-                    <button class="left-paddle paddle hidden">&#10094;</button>
+                    <button class="left-paddle paddle">&#10094;</button>
                     <button class="right-paddle paddle">&#10095;</button>
                 </div>
             </div>

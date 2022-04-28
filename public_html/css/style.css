@@ -173,8 +173,11 @@ text-shadow: 2px 4px 7px #fff;
 }
 
 
-/* .paddles {
-} */
+.paddles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .paddle {
     display: flex;
     justify-content: center;
@@ -193,11 +196,13 @@ text-shadow: 2px 4px 7px #fff;
 }
 .left-paddle {
 	left: 0;
-    margin-left: 15px;
+    padding: auto;
+    margin: auto auto auto 15px;
 }
 .right-paddle {
+    padding: auto;
 	right: 0;
-    margin-right: 15px;
+    margin: auto auto auto 15px;
 }
 
 .awaire{
